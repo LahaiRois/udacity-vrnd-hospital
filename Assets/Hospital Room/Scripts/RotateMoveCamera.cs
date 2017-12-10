@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-public class RotateMoveCamera : MonoBehaviour
+public class RotateMoveCameraHospital : MonoBehaviour
 {
     public GameObject Camera = null;
     public float minX = -360.0f;
