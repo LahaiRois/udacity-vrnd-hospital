@@ -163,6 +163,7 @@
      <Compile Include="Assets\Hospital Room\Scripts\RotateMoveCamera.cs" />
      <Compile Include="Assets\UdacityVR\Scripts\Extras\Teleporter.cs" />
      <Compile Include="Assets\UdacityVR\Scripts\TriggerAnimation.cs" />
+     <Compile Include="Assets\UdacityVR\Scripts\Waypoint.cs" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
      <None Include="Assets\GoogleVR\Demos\Shaders\VideoDemo\VideoDemoInsideShader.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
@@ -173,6 +174,7 @@
      <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />
      <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoAmbientOcclusion.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrUnlitTextureOverlay.shader" />
+     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
      <None Include="Assets\Plugins\Android\proguard-gvr.txt" />
      <None Include="Assets\Plugins\Android\AndroidManifest-Daydream.xml" />
      <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoUnlitGrayscaleToColor.shader" />
@@ -206,6 +208,10 @@
  <Reference Include="Google.ProtocolBuffers">
  <HintPath>/Users/albertlardizabal/dev/udacity/unity/udacity-vrnd-hospital/Hospital/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{7A0543F0-97E0-DE04-ACBA-57EB6D0F04BF}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
