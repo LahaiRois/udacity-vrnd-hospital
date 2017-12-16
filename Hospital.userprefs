@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{DF14438D-FDA5-7A5B-4239-26D57FBCDB18}|Unit Tests">
+﻿<Properties StartupConfiguration="{D822C775-5DF1-9E6A-FB07-B9ECE2594EEB}|">
   <MonoDevelop.Ide.ItemProperties.Hospital PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UdacityVR/Scripts/Waypoint.cs">
