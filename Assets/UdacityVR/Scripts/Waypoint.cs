@@ -127,7 +127,6 @@ public class Waypoint : MonoBehaviour
     public void Click()
     {
         _state = _state == State.Focused ? State.Clicked : _state;
-
         _audio_source.Play();
 
         Camera.main.transform.parent.transform.position = gameObject.transform.position;
