@@ -11,6 +11,7 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 ## Overview
 This project shows five potential applications of VR for the healthcare industry. The first room demonstrates how VR can be used in an educational setting. The second room is an example of using VR to help manage your personal health in the comfort of your own home. The third room is of a typical doctor's examination room, where VR can be used by doctors remotely to consult with other doctors and patients regardless of the distance. The fourth room shows a post-operation recovery room at a hospital, where VR can be used to help patients pass the time or provide a distraction from pain. The fifth and last room simulates how a patient, who has now returned home, can engage in a physical rehab program using a virtual coach.
 
+[Check out my blog post on Medium!](https://medium.com/@albielardo/hospital-vr-1f6b1919805a)
 
 ## 3rd Party Sources Used in Hospital VR
 
