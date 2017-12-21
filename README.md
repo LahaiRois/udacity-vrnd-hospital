@@ -14,36 +14,34 @@ This project shows five potential applications of VR for the healthcare industry
 
 ## 3rd Party Sources Used in Hospital VR
 
-Classroom:
+### Classroom:
 
 3D models: [Unity Asset Store - Props for the Classroom](https://www.assetstore.unity3d.com/en/#!/content/5977)
-
 image: https://touchstoneresearch.com/wp-content/uploads/VR-healthcare-feature-image.png
 
-Home:
+### Home:
 
 3D models: Udacity VR Developer Nanodegree - Apartment Project (Term 1)
 
 image: https://blogs.nvidia.com/wp-content/uploads/2016/07/bioflight.jpg
 
-Examination Room:
+### Examination Room:
 
 3D models: [Unity Asset Store - Hospital Doctor's Office](https://www.assetstore.unity3d.com/en/#!/content/65226)
 
 image: http://medicalfuturist.com/wp-content/uploads/2017/04/VR-companies-in-healthcare.jpg
 
-Recovery:
+### Recovery:
 
 3D models: [Unity Asset Store - Hospital Room](https://www.assetstore.unity3d.com/en/#!/content/57399)
 
 image: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/10/gallery-technology-2-sm-1-796x478.jpg
 
-Home Gym:
+### Home Gym:
 
 3D models: Udacity VR Developer Nanodegree - Apartment Project (Term 1)
 
 image: http://www.kurzweilai.net/images/Virtual-Coach.jpg
-
 image: [Hybrid neuro-rehabilitation BCI with VR and Soft robotics](https://www.youtube.com/watch?v=hEuFmFkcn7Q)
 
 
