@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Hilight
   - Class
+  - ClassWaypoint
+  - HomeWaypoint
+  - ExamWaypoint
+  - RecoveryWaypoint
+  - GymWaypoint
   layers:
   - Default
   - TransparentFX

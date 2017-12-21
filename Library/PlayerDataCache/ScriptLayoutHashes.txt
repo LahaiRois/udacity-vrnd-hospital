@@ -180,7 +180,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 4b8ea17c4350779db30d026c2281dfcb Assembly-CSharp.dll:.PooledPageProvider
 36ed787de81d47f5c7576e9aae0e3861 Assembly-CSharp.dll:.GvrArmModelOffsets
 d91d56ec20368b1c36a9fc0054b4b9aa Assembly-CSharp.dll:.GvrControllerVisual
-23b7ad71ca6d76fe45e702095d74c3d2 Assembly-CSharp.dll:.Waypoint
+ecacb69fdb0f8ea331888428aa404888 Assembly-CSharp.dll:.Waypoint
 f12b46990184302ae413ff95cea31566 Assembly-CSharp.dll:.FadeScrollEffect
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ScrubberEvents
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.TileScrollEffect

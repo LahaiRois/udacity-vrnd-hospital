@@ -19,6 +19,11 @@ public class Waypoint : MonoBehaviour
 
     [SerializeField]
     private State _state = State.Idle;
+    public Waypoint classWaypoint;
+    public Waypoint homeWaypoint;
+    public Waypoint examWaypoint;
+    public Waypoint recoveryWaypoint;
+    public Waypoint gymWaypoint;
     private Color _color_origional = new Color(0.0f, 1.0f, 0.0f, 0.5f);
     private Color _color = Color.white;
     private float _scale = 1.0f;
@@ -71,7 +76,6 @@ public class Waypoint : MonoBehaviour
         {
             case State.Idle:
                 Idle();
-
                 _state = occupied ? State.Occupied : _state;
                 break;
 
@@ -127,6 +131,11 @@ public class Waypoint : MonoBehaviour
     public void Click()
     {
         _state = _state == State.Focused ? State.Clicked : _state;
+        classWaypoint._audio_source.Stop();
+        homeWaypoint._audio_source.Stop();
+        examWaypoint._audio_source.Stop();
+        recoveryWaypoint._audio_source.Stop();
+        gymWaypoint._audio_source.Stop();
         _audio_source.Play();
 
         Camera.main.transform.parent.transform.position = gameObject.transform.position;

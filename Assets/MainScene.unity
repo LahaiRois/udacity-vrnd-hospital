@@ -1712,6 +1712,45 @@ Prefab:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: c0f54ffea23c043809672c1600d44403, type: 3}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: oldWaypoint
+      value: 
+      objectReference: {fileID: 1108116613}
+    - target: {fileID: 82000012579263728, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: MaxDistance
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012238771408, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
+      propertyPath: m_TagString
+      value: GymWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: classWaypoint
+      value: 
+      objectReference: {fileID: 602930168}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: homeWaypoint
+      value: 
+      objectReference: {fileID: 890446774}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: examWaypoint
+      value: 
+      objectReference: {fileID: 1998293146}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: recoveryWaypoint
+      value: 
+      objectReference: {fileID: 1108116613}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: gymWaypoint
+      value: 
+      objectReference: {fileID: 1823432483}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
   m_IsPrefabParent: 0
@@ -2344,6 +2383,40 @@ Prefab:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 1f2cd0be39bc74821bd527d929b21b75, type: 3}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: oldWaypoint
+      value: 
+      objectReference: {fileID: 890446774}
+    - target: {fileID: 1000012238771408, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
+      propertyPath: m_TagString
+      value: ExamWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: classWaypoint
+      value: 
+      objectReference: {fileID: 602930168}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: homeWaypoint
+      value: 
+      objectReference: {fileID: 890446774}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: examWaypoint
+      value: 
+      objectReference: {fileID: 1998293146}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: recoveryWaypoint
+      value: 
+      objectReference: {fileID: 1108116613}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: gymWaypoint
+      value: 
+      objectReference: {fileID: 1823432483}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
   m_IsPrefabParent: 0
@@ -2744,6 +2817,40 @@ Prefab:
       propertyPath: clip_click
       value: 
       objectReference: {fileID: 8300000, guid: 1ced51521a7064d8c8d9e897995c9513, type: 3}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: oldWaypoint
+      value: 
+      objectReference: {fileID: 602930168}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: classWaypoint
+      value: 
+      objectReference: {fileID: 602930168}
+    - target: {fileID: 1000012238771408, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
+      propertyPath: m_TagString
+      value: HomeWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: homeWaypoint
+      value: 
+      objectReference: {fileID: 890446774}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: examWaypoint
+      value: 
+      objectReference: {fileID: 1998293146}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: recoveryWaypoint
+      value: 
+      objectReference: {fileID: 1108116613}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: gymWaypoint
+      value: 
+      objectReference: {fileID: 1823432483}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
   m_IsPrefabParent: 0
@@ -3011,6 +3118,12 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!114 &602930168 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+    type: 2}
+  m_PrefabInternal: {fileID: 1910416511}
+  m_Script: {fileID: 11500000, guid: 18f754fc3d17b49db8e3d3dde994b993, type: 3}
 --- !u!1 &623542209
 GameObject:
   m_ObjectHideFlags: 0
@@ -4451,7 +4564,7 @@ Transform:
   m_GameObject: {fileID: 887062148}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.39370078, y: 0.35533214, z: 0.39370078}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1970819552}
   m_Father: {fileID: 1991194361}
@@ -4549,6 +4662,12 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   quality: 2
+--- !u!114 &890446774 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+    type: 2}
+  m_PrefabInternal: {fileID: 576600552}
+  m_Script: {fileID: 11500000, guid: 18f754fc3d17b49db8e3d3dde994b993, type: 3}
 --- !u!1 &903566978
 GameObject:
   m_ObjectHideFlags: 0
@@ -5149,6 +5268,12 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1c797438145d2f749bbd486eff3bd790, type: 2}
   m_IsPrefabParent: 0
+--- !u!114 &1108116613 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+    type: 2}
+  m_PrefabInternal: {fileID: 1896224543}
+  m_Script: {fileID: 11500000, guid: 18f754fc3d17b49db8e3d3dde994b993, type: 3}
 --- !u!1 &1119516739
 GameObject:
   m_ObjectHideFlags: 0
@@ -8215,6 +8340,12 @@ Light:
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &1823432483 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+    type: 2}
+  m_PrefabInternal: {fileID: 383032036}
+  m_Script: {fileID: 11500000, guid: 18f754fc3d17b49db8e3d3dde994b993, type: 3}
 --- !u!1001 &1856984423
 Prefab:
   m_ObjectHideFlags: 0
@@ -8628,6 +8759,40 @@ Prefab:
       propertyPath: clip_click
       value: 
       objectReference: {fileID: 8300000, guid: 5c3ccc0fef29947afb7103b362be4575, type: 3}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: oldWaypoint
+      value: 
+      objectReference: {fileID: 1998293146}
+    - target: {fileID: 1000012238771408, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
+      propertyPath: m_TagString
+      value: RecoveryWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: classWaypoint
+      value: 
+      objectReference: {fileID: 602930168}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: homeWaypoint
+      value: 
+      objectReference: {fileID: 890446774}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: examWaypoint
+      value: 
+      objectReference: {fileID: 1998293146}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: recoveryWaypoint
+      value: 
+      objectReference: {fileID: 1108116613}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: gymWaypoint
+      value: 
+      objectReference: {fileID: 1823432483}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
   m_IsPrefabParent: 0
@@ -8708,7 +8873,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1000012238771408, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
       propertyPath: m_TagString
-      value: Untagged
+      value: ClassWaypoint
       objectReference: {fileID: 0}
     - target: {fileID: 1000010898006358, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
       propertyPath: m_StaticEditorFlags
@@ -8733,6 +8898,36 @@ Prefab:
       propertyPath: clip_click
       value: 
       objectReference: {fileID: 8300000, guid: 1aa6a78537e88475f9312cec415b06f9, type: 3}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: classWaypoint
+      value: 
+      objectReference: {fileID: 602930168}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: homeWaypoint
+      value: 
+      objectReference: {fileID: 890446774}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: examWaypoint
+      value: 
+      objectReference: {fileID: 1998293146}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: hospitalWaypoint
+      value: 
+      objectReference: {fileID: 1108116613}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: recoveryWaypoint
+      value: 
+      objectReference: {fileID: 1108116613}
+    - target: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+        type: 2}
+      propertyPath: gymWaypoint
+      value: 
+      objectReference: {fileID: 1823432483}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4095a80f1f7244bdca7f3fe83bb8590c, type: 2}
   m_IsPrefabParent: 0
@@ -9238,6 +9433,12 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!114 &1998293146 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114000010531311160, guid: 4095a80f1f7244bdca7f3fe83bb8590c,
+    type: 2}
+  m_PrefabInternal: {fileID: 486004864}
+  m_Script: {fileID: 11500000, guid: 18f754fc3d17b49db8e3d3dde994b993, type: 3}
 --- !u!4 &2011306951 stripped
 Transform:
   m_PrefabParentObject: {fileID: 491598, guid: 536a36c17df653e49a9f2e79013b62af, type: 2}
